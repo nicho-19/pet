@@ -119,7 +119,7 @@ export default function Home() {
           <div className="hero-facts" aria-label="品牌基础信息">
             <div className="fact-row">
               <div className="fact">
-                <strong>犬猫友好</strong>
+                <strong>猫狗友好</strong>
                 <span>分区接待，降低紧张感</span>
               </div>
               <div className="fact">
